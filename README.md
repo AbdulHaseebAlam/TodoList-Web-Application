@@ -25,7 +25,7 @@ Here're some of the project's best features:
 <p>1. Clone the Repository:</p>
 
 ```
-git clone https://github.com/your-username/TodoList-Web-Application.git
+git clone https://github.com/AbdulHaseebAlam/TodoList-Web-Application.git
 ```
 
 <p>2. Install Dependencies:</p>
