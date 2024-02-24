@@ -1,6 +1,6 @@
 <h1 align="center" id="title">TodoList Web Application</h1>
 
-<p align="center"><img src="https://socialify.git.ci/AbdulHaseebAlam/TodoList-Web-Application/image?language=1&amp;name=1&amp;owner=1&amp;stargazers=1&amp;theme=Light" alt="project-image"></p>
+<p align="center"><img src="https://socialify.git.ci/AbdulHaseebAlam/TodoList-Web-Application/image?language=1&amp;name=1&amp;owner=1&amp;theme=Light" alt="project-image"></p>
 
 <p id="description">Welcome to TodoList Web Application! This is a simple yet effective application for managing your tasks efficiently. Whether you're organizing your day-to-day activities or keeping track of your long-term goals this application provides a seamless experience.</p>
 
